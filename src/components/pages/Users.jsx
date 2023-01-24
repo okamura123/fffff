@@ -41,7 +41,7 @@ const SContainer = styled.div`
 const SUserArea = styled.div`
   padding-top: 40px;
   width: 100%;
-  display: gtid;
+  display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   grid-gap: 20px;
 `;
